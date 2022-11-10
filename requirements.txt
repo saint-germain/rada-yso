@@ -2,3 +2,6 @@ matplotlib
 astropy
 numpy
 scikit-learn
+pandas
+scikit-plot
+seaborn
